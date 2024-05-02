@@ -1,0 +1,1 @@
+hello hello these are more lowercase words printed in order to test the little script that turns lowercase to uppercase. hooray! this one includes the numbers 1, 2, and also 3.
